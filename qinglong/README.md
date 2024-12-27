@@ -45,7 +45,7 @@
 文件后缀：sh
 ```
 
-没提到的不要动。
+没提到的不要动。(国内使用：https://gitee.com/chenshuzhuo/BiliBiliToolPro.git)
 
 保存后，点击运行按钮，运行拉库。
 
